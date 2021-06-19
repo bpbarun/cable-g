@@ -1,0 +1,12 @@
+{  
+ "host": {
+   "port":"",
+   "protocal":"http",
+   "domain": "localhost",
+   "subFolder":"cable-api"
+ },
+ "media": {
+  "directory": "/var/www/demo/cable-media",
+  "path": "/cable-media"
+ }
+}

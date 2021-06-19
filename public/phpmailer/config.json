@@ -1,0 +1,3 @@
+{
+    "smtp-config-file": "/var/www/activity/smtp-config.json"
+}
